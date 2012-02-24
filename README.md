@@ -19,7 +19,7 @@ Usage:
 Usage:
 
 ```
-gcc DFTP.c
+gcc DFTP.c -o DFTP
 ./DFTP <server address> <server port>
 ```
 
